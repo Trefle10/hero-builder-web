@@ -6,1344 +6,1344 @@
    "name": "doublet_oat",
    "zip": "parts/arm_l/doublet_oat.zip",
    "bytes": 46048,
-   "md5": "0ab9a9fbec93fe903359f1d50864f82f"
+   "md5": "7dbea975b8a1d63e4d9c7ce90af7032b"
   },
   {
    "slot": "arm_l",
    "name": "dress_red",
    "zip": "parts/arm_l/dress_red.zip",
    "bytes": 38133,
-   "md5": "06009405201cc5cf1dfd823173ed24e3"
+   "md5": "0306853ffcfd46d3983bb0ba479313cf"
   },
   {
    "slot": "arm_l",
    "name": "jacket_brown",
    "zip": "parts/arm_l/jacket_brown.zip",
    "bytes": 43122,
-   "md5": "68792ea250665bbfcc417be6d7eb7a07"
+   "md5": "90bfa762828d8b02ca8c2c5ffa3998c8"
   },
   {
    "slot": "arm_l",
    "name": "jerkin_green",
    "zip": "parts/arm_l/jerkin_green.zip",
    "bytes": 40247,
-   "md5": "383ecbdef4ba562cc61e50eb95a24ccf"
+   "md5": "3e276ed7b996a7b035af53d264f0e8d5"
   },
   {
    "slot": "arm_l",
    "name": "leather_brown",
    "zip": "parts/arm_l/leather_brown.zip",
    "bytes": 41123,
-   "md5": "7801c620b394086bdcd1aa6e6c6fa285"
+   "md5": "ac9262295cba9a271e8882ab6d740a7d"
   },
   {
    "slot": "arm_l",
    "name": "leather_dark",
    "zip": "parts/arm_l/leather_dark.zip",
    "bytes": 40301,
-   "md5": "52a4fdd1370c3d51d86d53203a0bcbe1"
+   "md5": "3d2857eec2ca9c2261bc944f2b8b6f42"
   },
   {
    "slot": "arm_l",
    "name": "plate_gauntlets_bronze",
    "zip": "parts/arm_l/plate_gauntlets_bronze.zip",
    "bytes": 42596,
-   "md5": "cdc62fce3b6371051f1b9dd21f1463d2"
+   "md5": "4acbb98a3cc6015ecbb4070976fd5fd6"
   },
   {
    "slot": "arm_l",
    "name": "plate_gauntlets_iron",
    "zip": "parts/arm_l/plate_gauntlets_iron.zip",
    "bytes": 41997,
-   "md5": "f6430502a38c0a347c973dae0d827f53"
+   "md5": "5b3f2bde90a5cd0e13b534e82088494c"
   },
   {
    "slot": "arm_l",
    "name": "plate_pauldrons_bronze",
    "zip": "parts/arm_l/plate_pauldrons_bronze.zip",
    "bytes": 39876,
-   "md5": "fe03026354739ccbefbb58f68ce817e7"
+   "md5": "1da7753e83f94faaacf0107439f34f10"
   },
   {
    "slot": "arm_l",
    "name": "plate_pauldrons_iron",
    "zip": "parts/arm_l/plate_pauldrons_iron.zip",
    "bytes": 39203,
-   "md5": "187d38a35721039645460b76f2f2654f"
+   "md5": "cc1358343c09ed4d4a1a008f109e242a"
   },
   {
    "slot": "arm_l",
    "name": "robe_mage_blue",
    "zip": "parts/arm_l/robe_mage_blue.zip",
    "bytes": 42083,
-   "md5": "1c0f8cfabfde7c09b5b73ff1df034d0e"
+   "md5": "7c856a6656e4101c030bc289ecb157f8"
   },
   {
    "slot": "arm_l",
    "name": "robe_mage_purple",
    "zip": "parts/arm_l/robe_mage_purple.zip",
    "bytes": 42315,
-   "md5": "94ad536ea36693cc313790177ff0f681"
+   "md5": "c474dc961b957c631fb06e6d1f33182f"
   },
   {
    "slot": "arm_l",
    "name": "robe_priest_cream",
    "zip": "parts/arm_l/robe_priest_cream.zip",
    "bytes": 43675,
-   "md5": "47df53a74ec04b9eb2849f3650d3984a"
+   "md5": "e43905ce2f634e2a22a9377daf39c20b"
   },
   {
    "slot": "arm_l",
    "name": "robe_priest_white",
    "zip": "parts/arm_l/robe_priest_white.zip",
    "bytes": 43598,
-   "md5": "35b99f65c5d59ea454564b597805b998"
+   "md5": "9c767bc3e1bd2003f5809059f96897fe"
   },
   {
    "slot": "arm_l",
    "name": "shirt_green",
    "zip": "parts/arm_l/shirt_green.zip",
    "bytes": 42953,
-   "md5": "2d00df84671d3addd81e6ecb04f7e7ab"
+   "md5": "33a25d5a17a38ad8622a526e99075577"
   },
   {
    "slot": "arm_l",
    "name": "shirt_oat",
    "zip": "parts/arm_l/shirt_oat.zip",
    "bytes": 42077,
-   "md5": "4369282bd3b8f08714e2c4b8dee26c0a"
+   "md5": "9ca7c72815fc8ad4a0a1fc0ac606e22b"
   },
   {
    "slot": "arm_l",
    "name": "shirt_red",
    "zip": "parts/arm_l/shirt_red.zip",
    "bytes": 42530,
-   "md5": "5d9774e9a1d6643d95bec027ed77f960"
+   "md5": "0161b97c58f43083486fe2a8d2403d02"
   },
   {
    "slot": "arm_l",
    "name": "tunic_green",
    "zip": "parts/arm_l/tunic_green.zip",
    "bytes": 38860,
-   "md5": "29a320baa8eea007edcabca67677f521"
+   "md5": "649fc3565366685bd5c8347aface8035"
   },
   {
    "slot": "arm_l",
    "name": "tunic_oat",
    "zip": "parts/arm_l/tunic_oat.zip",
    "bytes": 38170,
-   "md5": "018d0b492e3592a8a0583d63a6e0f802"
+   "md5": "b1d80264e5b1951f6d6fa1299c587f3c"
   },
   {
    "slot": "arm_l",
    "name": "tunic_red",
    "zip": "parts/arm_l/tunic_red.zip",
    "bytes": 38299,
-   "md5": "0a89035c008eeff8dc5af0d1927dd502"
+   "md5": "1773e93975d1fdc09e9328b05c7dffc2"
   },
   {
    "slot": "arm_r",
    "name": "doublet_oat",
    "zip": "parts/arm_r/doublet_oat.zip",
    "bytes": 46010,
-   "md5": "7434e91bf8bb06c5265bbe4b545f2cb7"
+   "md5": "dfe44ad2ea541ae40833a86858f21342"
   },
   {
    "slot": "arm_r",
    "name": "dress_red",
    "zip": "parts/arm_r/dress_red.zip",
    "bytes": 38484,
-   "md5": "a6f578894799a964de96e3bc071bcf82"
+   "md5": "6e835fefec5fac3a86ee25b57f61751d"
   },
   {
    "slot": "arm_r",
    "name": "jacket_brown",
    "zip": "parts/arm_r/jacket_brown.zip",
    "bytes": 43426,
-   "md5": "faebfbbfd1868b41249aaed69ce0bd88"
+   "md5": "0e4306070f4717099307afdfbf71ff8f"
   },
   {
    "slot": "arm_r",
    "name": "jerkin_green",
    "zip": "parts/arm_r/jerkin_green.zip",
    "bytes": 40517,
-   "md5": "b3a3ce9757c5c7692c7b3b0f452eed58"
+   "md5": "17b078d0b645859ef0ac440ba719e1e4"
   },
   {
    "slot": "arm_r",
    "name": "leather_brown",
    "zip": "parts/arm_r/leather_brown.zip",
    "bytes": 41058,
-   "md5": "324fa50178899e3b5257e06df8020026"
+   "md5": "9771e9aa6fcd37e1edbfde3e33c72db5"
   },
   {
    "slot": "arm_r",
    "name": "leather_dark",
    "zip": "parts/arm_r/leather_dark.zip",
    "bytes": 40279,
-   "md5": "2dc1f77f02cc77eaa5c01d49158abd76"
+   "md5": "6f78325cdbb025bd5fab1a8a1f172694"
   },
   {
    "slot": "arm_r",
    "name": "plate_gauntlets_bronze",
    "zip": "parts/arm_r/plate_gauntlets_bronze.zip",
    "bytes": 42613,
-   "md5": "eb6d9c7dac0314e207e15924e5ba6ce1"
+   "md5": "279076590ce46ff6ab799917a040ee99"
   },
   {
    "slot": "arm_r",
    "name": "plate_gauntlets_iron",
    "zip": "parts/arm_r/plate_gauntlets_iron.zip",
    "bytes": 41977,
-   "md5": "1e1a648fc7398ffbb95d9dc5289bceac"
+   "md5": "8b837c7be93510799040df7a9d8e306a"
   },
   {
    "slot": "arm_r",
    "name": "plate_pauldrons_bronze",
    "zip": "parts/arm_r/plate_pauldrons_bronze.zip",
    "bytes": 40041,
-   "md5": "3266baabd5873a04ef0ec756f459a8f2"
+   "md5": "d896aff38dffa7c2122b239a34ca6c24"
   },
   {
    "slot": "arm_r",
    "name": "plate_pauldrons_iron",
    "zip": "parts/arm_r/plate_pauldrons_iron.zip",
    "bytes": 39285,
-   "md5": "cd74cf5d3f695e9fb7e5a98a01604f53"
+   "md5": "ff33cfaa705e786fbf8263bdbd1a21fb"
   },
   {
    "slot": "arm_r",
    "name": "robe_mage_blue",
    "zip": "parts/arm_r/robe_mage_blue.zip",
    "bytes": 42428,
-   "md5": "fe72eed383f25548269a964e4f2074be"
+   "md5": "3bdf42f9f96234a688e2a465feb57011"
   },
   {
    "slot": "arm_r",
    "name": "robe_mage_purple",
    "zip": "parts/arm_r/robe_mage_purple.zip",
    "bytes": 42699,
-   "md5": "facd13379e5f96a86cc7524a9378140d"
+   "md5": "db57a03780afe149ca5ab841ef9a5c22"
   },
   {
    "slot": "arm_r",
    "name": "robe_priest_cream",
    "zip": "parts/arm_r/robe_priest_cream.zip",
    "bytes": 44076,
-   "md5": "983a2d1f5125f9a3c0e9cda5ad4dd8af"
+   "md5": "0e68d2d4c11a5a5cd33fc9896809dea9"
   },
   {
    "slot": "arm_r",
    "name": "robe_priest_white",
    "zip": "parts/arm_r/robe_priest_white.zip",
    "bytes": 44102,
-   "md5": "e754d66d1a563b64768454e248912bbc"
+   "md5": "45ef0c7ed2a58902c78a44e92f98d1f6"
   },
   {
    "slot": "arm_r",
    "name": "shirt_green",
    "zip": "parts/arm_r/shirt_green.zip",
    "bytes": 43250,
-   "md5": "feb3da126ab7cee23fcdc821951aedc1"
+   "md5": "b68b77ba8ece6c454beb223e7e6c58a6"
   },
   {
    "slot": "arm_r",
    "name": "shirt_oat",
    "zip": "parts/arm_r/shirt_oat.zip",
    "bytes": 42395,
-   "md5": "ebc039fc927de8f5d6101a352021f029"
+   "md5": "75cfb139082854661d5167e8bdaa6546"
   },
   {
    "slot": "arm_r",
    "name": "shirt_red",
    "zip": "parts/arm_r/shirt_red.zip",
    "bytes": 42938,
-   "md5": "194e1d3cc03aeeb36bffd65e5241feb0"
+   "md5": "b4de14be626f5494830b2dd37d7beecd"
   },
   {
    "slot": "arm_r",
    "name": "tunic_green",
    "zip": "parts/arm_r/tunic_green.zip",
    "bytes": 39023,
-   "md5": "23cd4e37bea335fa96a1a4c664379aea"
+   "md5": "9b42c6905765b6cf62c6582dde69f86b"
   },
   {
    "slot": "arm_r",
    "name": "tunic_oat",
    "zip": "parts/arm_r/tunic_oat.zip",
    "bytes": 38461,
-   "md5": "27e19c0decbcf10637369079c1558577"
+   "md5": "c3348d689a124e5bb9ee41ab6262119c"
   },
   {
    "slot": "arm_r",
    "name": "tunic_red",
    "zip": "parts/arm_r/tunic_red.zip",
    "bytes": 38659,
-   "md5": "33e89a10b2b7e8c0d0c05f77aaf85595"
+   "md5": "e03368dd753fd806f83569def99f28f9"
   },
   {
    "slot": "back",
    "name": "backpack",
    "zip": "parts/back/backpack.zip",
    "bytes": 42106,
-   "md5": "21062785ae0fc27db717164901a8b7e7"
+   "md5": "e3817fefb35b8050c43c23bae07379ce"
   },
   {
    "slot": "back",
    "name": "cape",
    "zip": "parts/back/cape.zip",
    "bytes": 44315,
-   "md5": "0c5faba6b039809b4e47f9be58e40c02"
+   "md5": "2909ad7ec170fdbd443970bfbbe29b48"
   },
   {
    "slot": "back",
    "name": "quiver",
    "zip": "parts/back/quiver.zip",
    "bytes": 49863,
-   "md5": "da57f518c81bd6450bfef4721eb8e464"
+   "md5": "491376eb79ca5b9ec2f191572e3fc627"
   },
   {
    "slot": "face",
    "name": "jacob_happy",
    "zip": "parts/face/jacob_happy.zip",
    "bytes": 864,
-   "md5": "3702aeace1bb68efbdf7bce9123dbce5"
+   "md5": "8e3f047b698f7af1c391dfaf439c78bb"
   },
   {
    "slot": "face",
    "name": "jacob_sad",
    "zip": "parts/face/jacob_sad.zip",
    "bytes": 859,
-   "md5": "3f0161ec2c4409cf5a6b3582d62f72f2"
+   "md5": "b02f5b2dd7798d34ca8b7e713c9ffc21"
   },
   {
    "slot": "face",
    "name": "jacob_surprised",
    "zip": "parts/face/jacob_surprised.zip",
    "bytes": 910,
-   "md5": "86c3a65f856e641395361e9912625504"
+   "md5": "2238b0400359630f5775dafbb0429689"
   },
   {
    "slot": "feet",
    "name": "boots_black",
    "zip": "parts/feet/boots_black.zip",
    "bytes": 46866,
-   "md5": "277081aafdff02ce1d540eb2f7486231"
+   "md5": "08d59d16e3c6565cb82826c76de99266"
   },
   {
    "slot": "feet",
    "name": "boots_brown",
    "zip": "parts/feet/boots_brown.zip",
    "bytes": 47001,
-   "md5": "66160666ce86ac46f93bfee6cfdc2123"
+   "md5": "ea049ed81ce2cc69def3fe71d2ddd8f3"
   },
   {
    "slot": "feet",
    "name": "boots_steel",
    "zip": "parts/feet/boots_steel.zip",
    "bytes": 46636,
-   "md5": "94a0e82fa5f043050af3fccaf9b5b7a8"
+   "md5": "190bea93e3505a32763209c48df68729"
   },
   {
    "slot": "feet",
    "name": "plate_greaves_bronze",
    "zip": "parts/feet/plate_greaves_bronze.zip",
    "bytes": 43265,
-   "md5": "93073a346fcf66c7030e9e585e5978a6"
+   "md5": "afc763f5f0b07c8be00cc7b82a56f4c1"
   },
   {
    "slot": "feet",
    "name": "plate_greaves_iron",
    "zip": "parts/feet/plate_greaves_iron.zip",
    "bytes": 42700,
-   "md5": "feb7777ae2783c42b3a5da1ec97581ce"
+   "md5": "b97708c6654cc171a8d764381bc41f8c"
   },
   {
    "slot": "feet",
    "name": "plate_sabatons_bronze",
    "zip": "parts/feet/plate_sabatons_bronze.zip",
    "bytes": 43031,
-   "md5": "4f30cfcea9d1e4ea2b205575deab4778"
+   "md5": "a2e2a187dad15ac6090d3fd9c188e3d8"
   },
   {
    "slot": "feet",
    "name": "plate_sabatons_iron",
    "zip": "parts/feet/plate_sabatons_iron.zip",
    "bytes": 42467,
-   "md5": "b8ee286a8c0aa36dd51a40fb5fb0dc07"
+   "md5": "1fa6b942605e5ba0a9386c09cbd19eae"
   },
   {
    "slot": "feet",
    "name": "robe_mage_blue",
    "zip": "parts/feet/robe_mage_blue.zip",
    "bytes": 46162,
-   "md5": "cc29d070728d5b3814365b11f1e10234"
+   "md5": "a3e3f25788173eafe72e28554ba33773"
   },
   {
    "slot": "feet",
    "name": "robe_mage_purple",
    "zip": "parts/feet/robe_mage_purple.zip",
    "bytes": 46826,
-   "md5": "fc9de82443094d0105d4840f2be73827"
+   "md5": "76ce27069504eb833f4a7cb75b814136"
   },
   {
    "slot": "feet",
    "name": "robe_priest_cream",
    "zip": "parts/feet/robe_priest_cream.zip",
    "bytes": 49195,
-   "md5": "3b991e331d918d0be6e65d85ed123853"
+   "md5": "d94acd4212a46762f6deb914f3ac46ee"
   },
   {
    "slot": "feet",
    "name": "robe_priest_white",
    "zip": "parts/feet/robe_priest_white.zip",
    "bytes": 49471,
-   "md5": "992586e66b6da5d89528974ede0af718"
+   "md5": "0a12c869bf2b14e36d4d83a594165477"
   },
   {
    "slot": "feet",
    "name": "sabatons_steel",
    "zip": "parts/feet/sabatons_steel.zip",
    "bytes": 49710,
-   "md5": "0af1afb4f6f1928ecd0edb39613a1825"
+   "md5": "986856034cc78331c8abee6520a7bc5f"
   },
   {
    "slot": "feet",
    "name": "sandals_brown",
    "zip": "parts/feet/sandals_brown.zip",
    "bytes": 45675,
-   "md5": "5c89b3ca5db2f895fe05a037d944be21"
+   "md5": "508809dfe56892f43f051b886d11b475"
   },
   {
    "slot": "feet",
    "name": "shoes_black",
    "zip": "parts/feet/shoes_black.zip",
    "bytes": 39833,
-   "md5": "278f125da6a101620d558fe8ac833938"
+   "md5": "120929f0b2b0bc929750cba8c341a4e4"
   },
   {
    "slot": "feet",
    "name": "shoes_brown",
    "zip": "parts/feet/shoes_brown.zip",
    "bytes": 40187,
-   "md5": "b5d4787b82c13fe1ffaa83a16360c418"
+   "md5": "3401e6b8a7f96f06eb3e459f655cb99c"
   },
   {
    "slot": "feet",
    "name": "shoes_steel",
    "zip": "parts/feet/shoes_steel.zip",
    "bytes": 39656,
-   "md5": "2f627562fe9e7f34b5bb4db957f8028e"
+   "md5": "0579fdf525f53e16cc0c0d4def845532"
   },
   {
    "slot": "feet",
    "name": "trousers_brown",
    "zip": "parts/feet/trousers_brown.zip",
    "bytes": 38075,
-   "md5": "9689da96ff9c3a19e32fb2842c402791"
+   "md5": "78eb03d372598f43ca8848e1e491ad28"
   },
   {
    "slot": "feet",
    "name": "trousers_grey",
    "zip": "parts/feet/trousers_grey.zip",
    "bytes": 37892,
-   "md5": "c1b0f0465de9fd9f481955f5a1893de1"
+   "md5": "d3627a09dbb245ad25bf010024aeb325"
   },
   {
    "slot": "feet",
    "name": "trousers_navy",
    "zip": "parts/feet/trousers_navy.zip",
    "bytes": 37612,
-   "md5": "279ed98f68e10032839884f464ca5e6c"
+   "md5": "dd4f32fb5ed916b65a50b121b8f09484"
   },
   {
    "slot": "hair",
    "name": "bob_black",
    "zip": "parts/hair/bob_black.zip",
    "bytes": 67866,
-   "md5": "e26148218c85937719942bbb88f376ad"
+   "md5": "c1bf27d83a670166c3ae86c8a9f2cee6"
   },
   {
    "slot": "hair",
    "name": "bob_blonde",
    "zip": "parts/hair/bob_blonde.zip",
    "bytes": 69480,
-   "md5": "91c5e396562055d9ce3de07c5a842fc2"
+   "md5": "19a0e53b8098ddf5add243e2b113efa5"
   },
   {
    "slot": "hair",
    "name": "bob_brown",
    "zip": "parts/hair/bob_brown.zip",
    "bytes": 69863,
-   "md5": "48beed41c85c1f38f5b28bba8e97d930"
+   "md5": "38f4b23909692a04dc33b3fbf78e1452"
   },
   {
    "slot": "hair",
    "name": "bob_grey",
    "zip": "parts/hair/bob_grey.zip",
    "bytes": 69198,
-   "md5": "7788be5d117b9cc258312a390bdd986f"
+   "md5": "e68c5ddf4d920fb3665865a37546daee"
   },
   {
    "slot": "hair",
    "name": "bob_red",
    "zip": "parts/hair/bob_red.zip",
    "bytes": 69692,
-   "md5": "5a67d1d6b3258b60c869ec79192c40fb"
+   "md5": "c220a8016fef1f8d45b76ec51cfd91e3"
   },
   {
    "slot": "hair",
    "name": "braids_black",
    "zip": "parts/hair/braids_black.zip",
    "bytes": 70139,
-   "md5": "4bad9ba8c01a60de33f8c545d4d07324"
+   "md5": "2ccda10dbb7714b45ec785e1f7c565b7"
   },
   {
    "slot": "hair",
    "name": "braids_blonde",
    "zip": "parts/hair/braids_blonde.zip",
    "bytes": 72028,
-   "md5": "d2519105aa42cbdc121ce2633d2e2aad"
+   "md5": "fffe39f4c408087fe999a8ef20bdcb7e"
   },
   {
    "slot": "hair",
    "name": "braids_brown",
    "zip": "parts/hair/braids_brown.zip",
    "bytes": 71398,
-   "md5": "c702b643f8af78d4de3d3bfb8cbbac09"
+   "md5": "852edc4e84df8c50a68876e9a276fd27"
   },
   {
    "slot": "hair",
    "name": "braids_grey",
    "zip": "parts/hair/braids_grey.zip",
    "bytes": 71353,
-   "md5": "e5d4659537b28183e2e33c351ccc0890"
+   "md5": "4cff7375760d41de1e76a437a47e55db"
   },
   {
    "slot": "hair",
    "name": "braids_red",
    "zip": "parts/hair/braids_red.zip",
    "bytes": 71453,
-   "md5": "3c3cad66fb53782fe1d3116e7d3176ad"
+   "md5": "ac79b1dcb3c083cc094b8c447b938259"
   },
   {
    "slot": "hair",
    "name": "buzz_black",
    "zip": "parts/hair/buzz_black.zip",
    "bytes": 55504,
-   "md5": "1e43b02771e3e8f274ddd8e941e0f608"
+   "md5": "e1d6d2299a697c5057400991dd64f1cd"
   },
   {
    "slot": "hair",
    "name": "buzz_blonde",
    "zip": "parts/hair/buzz_blonde.zip",
    "bytes": 57067,
-   "md5": "afe57597c572c7a3bc27adacb07181be"
+   "md5": "dd4be46ccebd643e341a362307722197"
   },
   {
    "slot": "hair",
    "name": "buzz_brown",
    "zip": "parts/hair/buzz_brown.zip",
    "bytes": 56912,
-   "md5": "6e8d358504a2f2a8b1a06b5dac29352e"
+   "md5": "be0f2a285267759c43097767964b481a"
   },
   {
    "slot": "hair",
    "name": "buzz_grey",
    "zip": "parts/hair/buzz_grey.zip",
    "bytes": 55699,
-   "md5": "0783107f7480722060c336222acc062a"
+   "md5": "8e98c2a23e97201e9546d591d24ca311"
   },
   {
    "slot": "hair",
    "name": "buzz_red",
    "zip": "parts/hair/buzz_red.zip",
    "bytes": 56696,
-   "md5": "95de26c0b21d349e6beabfde2f60efee"
+   "md5": "36c685f7c8da2a72a2a93aca8a521eca"
   },
   {
    "slot": "hair",
    "name": "curly_black",
    "zip": "parts/hair/curly_black.zip",
    "bytes": 69532,
-   "md5": "34bc104c97e0caf1f750c8224d499176"
+   "md5": "2fe0454843e14cde2b48d9bc339214a4"
   },
   {
    "slot": "hair",
    "name": "curly_blonde",
    "zip": "parts/hair/curly_blonde.zip",
    "bytes": 70959,
-   "md5": "7c3a112b2f67f9fbac82e2d895aaf280"
+   "md5": "53868d98354764f1ef77271381f6724f"
   },
   {
    "slot": "hair",
    "name": "curly_brown",
    "zip": "parts/hair/curly_brown.zip",
    "bytes": 71448,
-   "md5": "6bb2bcf67bec4e5058ca38e8117b6f1d"
+   "md5": "a9b2d96ca67b3c3e89a287af0c29e9ef"
   },
   {
    "slot": "hair",
    "name": "curly_grey",
    "zip": "parts/hair/curly_grey.zip",
    "bytes": 70363,
-   "md5": "3765e450940d937e400cf6f8260e5779"
+   "md5": "d283d6a9693ff3705ba7ffd14e35deea"
   },
   {
    "slot": "hair",
    "name": "curly_red",
    "zip": "parts/hair/curly_red.zip",
    "bytes": 71374,
-   "md5": "6f0d1825313315fd00ded48c155a9540"
+   "md5": "edfffdf0d93b250685210f6547a4b390"
   },
   {
    "slot": "hair",
    "name": "hime_black",
    "zip": "parts/hair/hime_black.zip",
    "bytes": 71764,
-   "md5": "98634424e52061ccc71fc2f65b1a58d1"
+   "md5": "0462da58085c8c5290d409caab58b6fd"
   },
   {
    "slot": "hair",
    "name": "hime_blonde",
    "zip": "parts/hair/hime_blonde.zip",
    "bytes": 74048,
-   "md5": "394c6978491eb4ef9481cfa9c0c9a20d"
+   "md5": "9023f01b896d8aa6bdae5cbe1bfd213f"
   },
   {
    "slot": "hair",
    "name": "hime_brown",
    "zip": "parts/hair/hime_brown.zip",
    "bytes": 73539,
-   "md5": "b72fa14bb35b2f626fbf3722b5204aea"
+   "md5": "7c4c737e35780300e8599b79084455d6"
   },
   {
    "slot": "hair",
    "name": "hime_grey",
    "zip": "parts/hair/hime_grey.zip",
    "bytes": 73087,
-   "md5": "ff98c7178bd431d2a22233fd3b73a72b"
+   "md5": "009a47a90268a8a3c52430ebdb02a68f"
   },
   {
    "slot": "hair",
    "name": "hime_red",
    "zip": "parts/hair/hime_red.zip",
    "bytes": 73848,
-   "md5": "2b478993c62e733597dc69f390ba82e8"
+   "md5": "e13a3c5dc94fe2758c963649a65afc52"
   },
   {
    "slot": "hair",
    "name": "long_black",
    "zip": "parts/hair/long_black.zip",
    "bytes": 71087,
-   "md5": "4ecc6800c9be25d31a375cedad773b50"
+   "md5": "429011b7444df88379fca305793231c1"
   },
   {
    "slot": "hair",
    "name": "long_blonde",
    "zip": "parts/hair/long_blonde.zip",
    "bytes": 71966,
-   "md5": "3cfdbc226118593d279098b8ef9dd119"
+   "md5": "bb896e4eca0a829f3389d211af734adb"
   },
   {
    "slot": "hair",
    "name": "long_brown",
    "zip": "parts/hair/long_brown.zip",
    "bytes": 72025,
-   "md5": "234e556d268a76c03b55e3c024b49b7d"
+   "md5": "8f01ed3a27d6c03ee14307b056db58d7"
   },
   {
    "slot": "hair",
    "name": "long_grey",
    "zip": "parts/hair/long_grey.zip",
    "bytes": 71197,
-   "md5": "48b982858b86f910a5b5ce4273f63a4b"
+   "md5": "a136d815cc44b46907da6e7bf272bdef"
   },
   {
    "slot": "hair",
    "name": "long_red",
    "zip": "parts/hair/long_red.zip",
    "bytes": 71621,
-   "md5": "910e98336a2e25656e116f43e31b07f8"
+   "md5": "2beb18e6fb1efd83f634c639c56ebfc8"
   },
   {
    "slot": "hair",
    "name": "messy_black",
    "zip": "parts/hair/messy_black.zip",
    "bytes": 68711,
-   "md5": "0f9264acaab30d4924a2df0226d17714"
+   "md5": "a2ef2bebb5bf2e83ccc4f0b31dad4374"
   },
   {
    "slot": "hair",
    "name": "messy_blonde",
    "zip": "parts/hair/messy_blonde.zip",
    "bytes": 71112,
-   "md5": "73e583938e62f02623d8411bf884cd87"
+   "md5": "4aa29d0c1ad02fbc2555c39cedd78e93"
   },
   {
    "slot": "hair",
    "name": "messy_brown",
    "zip": "parts/hair/messy_brown.zip",
    "bytes": 70176,
-   "md5": "c530544c15c43e27983bf025931d3ffb"
+   "md5": "aaec036eb5380e1e37eecd03447899ef"
   },
   {
    "slot": "hair",
    "name": "messy_grey",
    "zip": "parts/hair/messy_grey.zip",
    "bytes": 69959,
-   "md5": "3feed545244dc1311b96419585a9828e"
+   "md5": "909df45ea85110700b1ff29941759f47"
   },
   {
    "slot": "hair",
    "name": "messy_red",
    "zip": "parts/hair/messy_red.zip",
    "bytes": 70861,
-   "md5": "083429e29ae83939a217f9be73fb98f1"
+   "md5": "7b13683a25d17ce6c6e87b2412938ac1"
   },
   {
    "slot": "hair",
    "name": "odango_black",
    "zip": "parts/hair/odango_black.zip",
    "bytes": 63105,
-   "md5": "5474bf9f3764a422a3975df2503fd072"
+   "md5": "2a6929b008af8d734afa2853d0db1137"
   },
   {
    "slot": "hair",
    "name": "odango_blonde",
    "zip": "parts/hair/odango_blonde.zip",
    "bytes": 64902,
-   "md5": "c5ed8adfb9e06f8f77d5879071a09b4f"
+   "md5": "411dc7785ebf04640b5205ee816ea3f4"
   },
   {
    "slot": "hair",
    "name": "odango_brown",
    "zip": "parts/hair/odango_brown.zip",
    "bytes": 64689,
-   "md5": "8d9fbe90a71d1cacb30cc8a99bd2aa74"
+   "md5": "7d321bdf5f5124fdfad0dd49fae5c704"
   },
   {
    "slot": "hair",
    "name": "odango_grey",
    "zip": "parts/hair/odango_grey.zip",
    "bytes": 64058,
-   "md5": "08236386a9827c79eb414d383748ac95"
+   "md5": "98054d85806484a6c27d081c936e3567"
   },
   {
    "slot": "hair",
    "name": "odango_red",
    "zip": "parts/hair/odango_red.zip",
    "bytes": 64062,
-   "md5": "f0415ff3482a3ae119b3dfbb14242c5a"
+   "md5": "9b83860513e639eaf62550eae4945f4c"
   },
   {
    "slot": "hair",
    "name": "ponytail_black",
    "zip": "parts/hair/ponytail_black.zip",
    "bytes": 66029,
-   "md5": "f2761805e14d0ebe1e17360c39c922c7"
+   "md5": "efba7669522e82b3ec7c937d3ec7da19"
   },
   {
    "slot": "hair",
    "name": "ponytail_blonde",
    "zip": "parts/hair/ponytail_blonde.zip",
    "bytes": 67722,
-   "md5": "5bcdbfde9a95b9830d8c772bfdc6447c"
+   "md5": "bc55993c439f18163c129f4b4c6d5195"
   },
   {
    "slot": "hair",
    "name": "ponytail_brown",
    "zip": "parts/hair/ponytail_brown.zip",
    "bytes": 67709,
-   "md5": "c391d8ffacb2315aea7f1c23f0610c41"
+   "md5": "6ce9dec52945cfa7f88818f0db162bf5"
   },
   {
    "slot": "hair",
    "name": "ponytail_grey",
    "zip": "parts/hair/ponytail_grey.zip",
    "bytes": 66669,
-   "md5": "ecc4fb74269705b65042eb6ef72ac57c"
+   "md5": "52f35b50651fc55887e0288213fa65bb"
   },
   {
    "slot": "hair",
    "name": "ponytail_red",
    "zip": "parts/hair/ponytail_red.zip",
    "bytes": 67729,
-   "md5": "ba18bb322bb1a33f68800ab860c98fd0"
+   "md5": "7e9a07cfdcc381db30e000bd9152a393"
   },
   {
    "slot": "hair",
    "name": "short_black",
    "zip": "parts/hair/short_black.zip",
    "bytes": 61702,
-   "md5": "a00b73f3c116114c4897ff99403c2470"
+   "md5": "0a34d70bc45e47864356736e07931d75"
   },
   {
    "slot": "hair",
    "name": "short_blonde",
    "zip": "parts/hair/short_blonde.zip",
    "bytes": 63629,
-   "md5": "95ecea673bb1dacb0ebcc3679fa08647"
+   "md5": "d0d11231a385f4460cc7b56fe87447a9"
   },
   {
    "slot": "hair",
    "name": "short_grey",
    "zip": "parts/hair/short_grey.zip",
    "bytes": 62629,
-   "md5": "0f0a941f4df6d7bcb1b66ce1ca4926e3"
+   "md5": "56086c029db19d4d1891e70c4edb7978"
   },
   {
    "slot": "hair",
    "name": "short_red",
    "zip": "parts/hair/short_red.zip",
    "bytes": 62798,
-   "md5": "5bcc63ca704a977db2bddfef641ea202"
+   "md5": "4f80d1259ef30f975cc570a340ae78e3"
   },
   {
    "slot": "hair",
    "name": "spiky_black",
    "zip": "parts/hair/spiky_black.zip",
    "bytes": 73100,
-   "md5": "9e9452794e48d65d0b4d0d42a663d149"
+   "md5": "b6942ab543bb38da98e5d4d77a4ad820"
   },
   {
    "slot": "hair",
    "name": "spiky_blonde",
    "zip": "parts/hair/spiky_blonde.zip",
    "bytes": 76076,
-   "md5": "0273684a7738a4041577bdc578f80db4"
+   "md5": "cd3144acc14249cb8e08177409e369ad"
   },
   {
    "slot": "hair",
    "name": "spiky_brown",
    "zip": "parts/hair/spiky_brown.zip",
    "bytes": 74926,
-   "md5": "ee0e1aa3e6acbe88acf326bc1d32e283"
+   "md5": "7c096428f60dec79bb27d256501c6442"
   },
   {
    "slot": "hair",
    "name": "spiky_grey",
    "zip": "parts/hair/spiky_grey.zip",
    "bytes": 74727,
-   "md5": "761b80c915478aec889ef52432259d56"
+   "md5": "e2c50b4ecebe6832646465f9ac32a6dd"
   },
   {
    "slot": "hair",
    "name": "spiky_red",
    "zip": "parts/hair/spiky_red.zip",
    "bytes": 75600,
-   "md5": "88c634b7392b9d51db4752f4f54ebcbf"
+   "md5": "134992b10713e5351c4f490e497edfb9"
   },
   {
    "slot": "hair",
    "name": "twintails_black",
    "zip": "parts/hair/twintails_black.zip",
    "bytes": 73938,
-   "md5": "17ea3270f94d28e63d688efe5ce8817b"
+   "md5": "9129af04adbe6bfaae607260a8be7916"
   },
   {
    "slot": "hair",
    "name": "twintails_blonde",
    "zip": "parts/hair/twintails_blonde.zip",
    "bytes": 76706,
-   "md5": "120851f821096b3f046811205a504f62"
+   "md5": "d9e1298fa0030b6b04f3450e935cb590"
   },
   {
    "slot": "hair",
    "name": "twintails_brown",
    "zip": "parts/hair/twintails_brown.zip",
    "bytes": 75305,
-   "md5": "ea4169705891ff1624eff77e3ca2f570"
+   "md5": "57c7f54b9012c537289ad361961c91f5"
   },
   {
    "slot": "hair",
    "name": "twintails_grey",
    "zip": "parts/hair/twintails_grey.zip",
    "bytes": 75867,
-   "md5": "9f1f26da64593f85ed641f85a11c62d2"
+   "md5": "c334bc1001458e0cef0e79123a25218f"
   },
   {
    "slot": "hair",
    "name": "twintails_red",
    "zip": "parts/hair/twintails_red.zip",
    "bytes": 75271,
-   "md5": "3cc3896760ca5a87919c788c1c3d30ba"
+   "md5": "cbb5f324f63d9ffb8fa46e36136121a2"
   },
   {
    "slot": "hand",
    "name": "axe",
    "zip": "parts/hand/axe.zip",
    "bytes": 62977,
-   "md5": "f95d6a2b6d5e85889358fb122df118ca"
+   "md5": "6996423ce749252bdb6ea08d9ac0f880"
   },
   {
    "slot": "hand",
    "name": "bow",
    "zip": "parts/hand/bow.zip",
    "bytes": 56400,
-   "md5": "d9381bcaf57c2efc62170dc235dfa191"
+   "md5": "b1f76f583599a5a1fedece99ec09041a"
   },
   {
    "slot": "hand",
    "name": "dagger",
    "zip": "parts/hand/dagger.zip",
    "bytes": 54123,
-   "md5": "06f7d7d8e4be4c0cab71b45b190f95b4"
+   "md5": "3c3bb31fc438e1a49334eb1412bbacdb"
   },
   {
    "slot": "hand",
    "name": "shield",
    "zip": "parts/hand/shield.zip",
    "bytes": 51456,
-   "md5": "1bb9c07ed7f82ff32706d2c28d9ccc95"
+   "md5": "b08ca8ec8337b433bc54f74cd11c0ddb"
   },
   {
    "slot": "hand",
    "name": "staff",
    "zip": "parts/hand/staff.zip",
    "bytes": 61998,
-   "md5": "ac5388fbcfba963e0327cde00c6b96d6"
+   "md5": "ea5f1644a619d40834fa735a39b683c2"
   },
   {
    "slot": "hand",
    "name": "sword",
    "zip": "parts/hand/sword.zip",
    "bytes": 64981,
-   "md5": "a897a85481bd68fa3e552722b6a8539e"
+   "md5": "c21d4e6ec742cd5cbfbea5cbbf3d2055"
   },
   {
    "slot": "hat",
    "name": "crown",
    "zip": "parts/hat/crown.zip",
    "bytes": 45951,
-   "md5": "f4e8c9afbb282677626d3ce696c4ac93"
+   "md5": "a3641fdc131965bc6072a88a66cd0e0f"
   },
   {
    "slot": "hat",
    "name": "feather_cap",
    "zip": "parts/hat/feather_cap.zip",
    "bytes": 52589,
-   "md5": "307c08d6d82c2e466b0a22e184f99abe"
+   "md5": "22edb711f1137cf4a5e546938f601a35"
   },
   {
    "slot": "legs",
    "name": "dress_red",
    "zip": "parts/legs/dress_red.zip",
    "bytes": 49719,
-   "md5": "09a4122ff7c8a75f1ea65bf5b2729dec"
+   "md5": "2b577a51b12d54cddfdbb88015d1743f"
   },
   {
    "slot": "legs",
    "name": "hose_parti",
    "zip": "parts/legs/hose_parti.zip",
    "bytes": 42050,
-   "md5": "de936cd3c5fad3cedbaf73ae81274fcd"
+   "md5": "2feee691d2f031d96b94c602870cdd7f"
   },
   {
    "slot": "legs",
    "name": "kilt_brown",
    "zip": "parts/legs/kilt_brown.zip",
    "bytes": 55732,
-   "md5": "748684fb056cf544d088e01d69a00a3a"
+   "md5": "c272167da7ee9ac462bc4597197a9771"
   },
   {
    "slot": "legs",
    "name": "overalls_denim",
    "zip": "parts/legs/overalls_denim.zip",
    "bytes": 40621,
-   "md5": "d90c502601d0f184a73e44c4831b25ed"
+   "md5": "be004555d4adc5907105ea89eb9c3521"
   },
   {
    "slot": "legs",
    "name": "plate_greaves_bronze",
    "zip": "parts/legs/plate_greaves_bronze.zip",
    "bytes": 42115,
-   "md5": "4a50cb2817548e4a2d69231bd46a5d15"
+   "md5": "1ba88b005506026ac54e8ae0c077e0a7"
   },
   {
    "slot": "legs",
    "name": "plate_greaves_iron",
    "zip": "parts/legs/plate_greaves_iron.zip",
    "bytes": 41601,
-   "md5": "ef572abdbfe240966ca684210c1508c5"
+   "md5": "33800a7e7ee44f95652fc9d9fae8ebad"
   },
   {
    "slot": "legs",
    "name": "robe_mage_blue",
    "zip": "parts/legs/robe_mage_blue.zip",
    "bytes": 43249,
-   "md5": "cba1805ecde2434c29c1dc529ee99065"
+   "md5": "694cc780662447ec12258c4e6f7da31e"
   },
   {
    "slot": "legs",
    "name": "robe_mage_purple",
    "zip": "parts/legs/robe_mage_purple.zip",
    "bytes": 43062,
-   "md5": "715df547ca9d9cc3dd450a148f82ab13"
+   "md5": "c8e7751c60b835de56c4dedff7138b93"
   },
   {
    "slot": "legs",
    "name": "robe_priest_cream",
    "zip": "parts/legs/robe_priest_cream.zip",
    "bytes": 44231,
-   "md5": "814c116b52d2393029afce5b9b5f8433"
+   "md5": "fe10ecf76197430a6039776bcce577f5"
   },
   {
    "slot": "legs",
    "name": "robe_priest_white",
    "zip": "parts/legs/robe_priest_white.zip",
    "bytes": 43982,
-   "md5": "295b8b63bbe6ca179bb2931254645105"
+   "md5": "493f786475976934e06c965660f0b617"
   },
   {
    "slot": "legs",
    "name": "shorts_brown",
    "zip": "parts/legs/shorts_brown.zip",
    "bytes": 40496,
-   "md5": "0219e460341ee67b6ab804ea00d9410e"
+   "md5": "2e992d36f2ecd162bbcfc073c6bbf9f3"
   },
   {
    "slot": "legs",
    "name": "shorts_grey",
    "zip": "parts/legs/shorts_grey.zip",
    "bytes": 39654,
-   "md5": "afe5c3d2ae56bcc5a672f1cb80cf14bd"
+   "md5": "b48141d578d37fd6ef166706c6aec197"
   },
   {
    "slot": "legs",
    "name": "shorts_navy",
    "zip": "parts/legs/shorts_navy.zip",
    "bytes": 40242,
-   "md5": "e042007efa0cc02fa79d42df84d15214"
+   "md5": "2338e5f41f9ca343bef58106d409178a"
   },
   {
    "slot": "legs",
    "name": "skirt_brown",
    "zip": "parts/legs/skirt_brown.zip",
    "bytes": 40424,
-   "md5": "5996bf1e505261f0c12828720af15713"
+   "md5": "8855d69d811c85c2f4fa76ed13a375cf"
   },
   {
    "slot": "legs",
    "name": "skirt_grey",
    "zip": "parts/legs/skirt_grey.zip",
    "bytes": 39932,
-   "md5": "07ba5d4871798796ebc32aba514edc02"
+   "md5": "22daed8e053166d6be0caa17f6157a37"
   },
   {
    "slot": "legs",
    "name": "skirt_navy",
    "zip": "parts/legs/skirt_navy.zip",
    "bytes": 40092,
-   "md5": "ee71ee7d5e682c7f2e73e414d2b703de"
+   "md5": "c40eb6680a82c3515c86c8f0d8d95690"
   },
   {
    "slot": "legs",
    "name": "tabard_grey",
    "zip": "parts/legs/tabard_grey.zip",
    "bytes": 42490,
-   "md5": "2187910a3cbfaa7af90b2543f35a7e6e"
+   "md5": "dbad71ca1cb7cbf5f79e797d0c903e3b"
   },
   {
    "slot": "legs",
    "name": "trousers_brown",
    "zip": "parts/legs/trousers_brown.zip",
    "bytes": 40972,
-   "md5": "ca6a4be37996797e55ac06973be65511"
+   "md5": "aac2cb820311c92b97df14b3b314c03d"
   },
   {
    "slot": "legs",
    "name": "trousers_grey",
    "zip": "parts/legs/trousers_grey.zip",
    "bytes": 40137,
-   "md5": "1ea6712b34e139d1e427e616333e049a"
+   "md5": "8a9d3aac17364795c19e43fc62f2bd1f"
   },
   {
    "slot": "legs",
    "name": "trousers_navy",
    "zip": "parts/legs/trousers_navy.zip",
    "bytes": 40719,
-   "md5": "8fdfe4314efa5a3c39037bdb561ec14c"
+   "md5": "20cd7e56d686019d4e746062a4385d9a"
   },
   {
    "slot": "legs",
    "name": "tunic_green",
    "zip": "parts/legs/tunic_green.zip",
    "bytes": 40153,
-   "md5": "12744fcc11385ce89ee6d1ce4c7a8a1c"
+   "md5": "493e7995b3f0c6a4c2c8d51ffe8e0518"
   },
   {
    "slot": "legs",
    "name": "tunic_oat",
    "zip": "parts/legs/tunic_oat.zip",
    "bytes": 39528,
-   "md5": "6151ab14df9e78b278da3f98e5cbb27a"
+   "md5": "bb01824547263dac405e205b8fecee4c"
   },
   {
    "slot": "legs",
    "name": "tunic_red",
    "zip": "parts/legs/tunic_red.zip",
    "bytes": 39802,
-   "md5": "3a76f1b2124a47067e0ccaae13b3615b"
+   "md5": "334d86872e36f3a103c719c8469d8db3"
   },
   {
    "slot": "torso",
    "name": "belt",
    "zip": "parts/torso/belt.zip",
    "bytes": 36679,
-   "md5": "e545adbc8941ba5535fd51deb893a9c6"
+   "md5": "5d685622536f6e51a9d0daa45399420c"
   },
   {
    "slot": "torso",
    "name": "doublet_oat",
    "zip": "parts/torso/doublet_oat.zip",
    "bytes": 53495,
-   "md5": "b9ca1a628bd67bcc013de81bbcb4d9f8"
+   "md5": "539464b5436ad8b045188812b092fc7c"
   },
   {
    "slot": "torso",
    "name": "dress_red",
    "zip": "parts/torso/dress_red.zip",
    "bytes": 51843,
-   "md5": "e1414c5cd64073727251a5639cb42b44"
+   "md5": "6a83ba770fb0684fc16b6b3c7c55d028"
   },
   {
    "slot": "torso",
    "name": "hose_parti",
    "zip": "parts/torso/hose_parti.zip",
    "bytes": 41451,
-   "md5": "99cddda9c710f4150f190b11e1e1cb78"
+   "md5": "cd452fa216b51204434c3a6a8fdadd19"
   },
   {
    "slot": "torso",
    "name": "jacket_brown",
    "zip": "parts/torso/jacket_brown.zip",
    "bytes": 51176,
-   "md5": "a76dcb26290a942f7cb5eadace50a7d3"
+   "md5": "3ab43648431daa2983fcb12233d180d2"
   },
   {
    "slot": "torso",
    "name": "jerkin_green",
    "zip": "parts/torso/jerkin_green.zip",
    "bytes": 50087,
-   "md5": "f94675ba4f16a3e9b7539ec023130b7e"
+   "md5": "75692c1da92cc0d85f55aeafcceecf72"
   },
   {
    "slot": "torso",
    "name": "kilt_brown",
    "zip": "parts/torso/kilt_brown.zip",
    "bytes": 46303,
-   "md5": "2ccb9bc228ce752d825da0365cc301eb"
+   "md5": "688cf4146ecfcfb89a4304b3e9f31239"
   },
   {
    "slot": "torso",
    "name": "leather_brown",
    "zip": "parts/torso/leather_brown.zip",
    "bytes": 58276,
-   "md5": "aede7670de3d5192511b4bdfcf5f23ad"
+   "md5": "046fbedc46f5902d7d81f28f74c6c53a"
   },
   {
    "slot": "torso",
    "name": "leather_dark",
    "zip": "parts/torso/leather_dark.zip",
    "bytes": 56524,
-   "md5": "7215d6a008436a27b9ffe167b38a3e5f"
+   "md5": "b358c69298710b1c56f082b5bd42899c"
   },
   {
    "slot": "torso",
    "name": "overalls_denim",
    "zip": "parts/torso/overalls_denim.zip",
    "bytes": 48934,
-   "md5": "a152c7d059247917084d6002a4c0258b"
+   "md5": "9dfdf49af080064ecb88f2bc733a2363"
   },
   {
    "slot": "torso",
    "name": "pauldrons",
    "zip": "parts/torso/pauldrons.zip",
    "bytes": 44151,
-   "md5": "3d4d02424e49d29164f3a5e364760180"
+   "md5": "8cf251808ef5ea6a2b2984db0e2f072f"
   },
   {
    "slot": "torso",
    "name": "plate_cuirass_bronze",
    "zip": "parts/torso/plate_cuirass_bronze.zip",
    "bytes": 59334,
-   "md5": "9501b4f10ab364abc8c0dfbd19e25957"
+   "md5": "38cd9cc33c972beadb4f39584693818a"
   },
   {
    "slot": "torso",
    "name": "plate_cuirass_iron",
    "zip": "parts/torso/plate_cuirass_iron.zip",
    "bytes": 57415,
-   "md5": "b0f2f63fecc4e7e991e50f1bfbcf3839"
+   "md5": "433ced1e6fcce9369ccdaec477b1cba7"
   },
   {
    "slot": "torso",
    "name": "robe_mage_blue",
    "zip": "parts/torso/robe_mage_blue.zip",
    "bytes": 53915,
-   "md5": "86e45b14b189c9cf96ff822761328391"
+   "md5": "7bc6812a875f4e2d288f4251ef600204"
   },
   {
    "slot": "torso",
    "name": "robe_mage_purple",
    "zip": "parts/torso/robe_mage_purple.zip",
    "bytes": 54158,
-   "md5": "f1a6ebf01eeb97bade6ef1b4e21e2161"
+   "md5": "39f18425db1472c0aa5d7314cb554a81"
   },
   {
    "slot": "torso",
    "name": "robe_priest_cream",
    "zip": "parts/torso/robe_priest_cream.zip",
    "bytes": 55757,
-   "md5": "d5180317e2e6df4483e87d834998e34f"
+   "md5": "e50bc87ee029add3afeb351cfaead386"
   },
   {
    "slot": "torso",
    "name": "robe_priest_white",
    "zip": "parts/torso/robe_priest_white.zip",
    "bytes": 55817,
-   "md5": "e511a23b00c0626eaf3aca1d1b6aa571"
+   "md5": "976b91f3dd80a849b885ea80f972b03a"
   },
   {
    "slot": "torso",
    "name": "scarf",
    "zip": "parts/torso/scarf.zip",
    "bytes": 42405,
-   "md5": "f4a5d4a59049dd9c72daaa8e83d0b778"
+   "md5": "1c79153549816b4b143057dd553ebc30"
   },
   {
    "slot": "torso",
    "name": "shirt_green",
    "zip": "parts/torso/shirt_green.zip",
    "bytes": 52228,
-   "md5": "c1de72114c4632a70a046906aeb3f031"
+   "md5": "6c10a93617761b5c31daeafbd12d4ac1"
   },
   {
    "slot": "torso",
    "name": "shirt_oat",
    "zip": "parts/torso/shirt_oat.zip",
    "bytes": 51532,
-   "md5": "768f28b91680cd38066f6085a3fa3ace"
+   "md5": "e3c89c33499af59efa46ae0dc6509eed"
   },
   {
    "slot": "torso",
    "name": "shirt_red",
    "zip": "parts/torso/shirt_red.zip",
    "bytes": 52013,
-   "md5": "bcce3cf3d0a0a9a79749d96b536513d3"
+   "md5": "e1884c50568b28c49461f56e82fa6f13"
   },
   {
    "slot": "torso",
    "name": "shorts_brown",
    "zip": "parts/torso/shorts_brown.zip",
    "bytes": 37910,
-   "md5": "507c4cb7dc46422a53cf0f1dbff6ff6f"
+   "md5": "1bbd99803aade15eaaaab25b330954f9"
   },
   {
    "slot": "torso",
    "name": "shorts_grey",
    "zip": "parts/torso/shorts_grey.zip",
    "bytes": 37774,
-   "md5": "877495ddc57516b3225fb7a09f28c35f"
+   "md5": "fd1282858db9504e534102a706256eb0"
   },
   {
    "slot": "torso",
    "name": "shorts_navy",
    "zip": "parts/torso/shorts_navy.zip",
    "bytes": 37322,
-   "md5": "daa09b03047ef638e899d04ef8de0178"
+   "md5": "290cbb2dea0d9a5575f1a449ec016a3b"
   },
   {
    "slot": "torso",
    "name": "skirt_brown",
    "zip": "parts/torso/skirt_brown.zip",
    "bytes": 40708,
-   "md5": "983dd061d58f542a2f16d3083b88c8b7"
+   "md5": "74349a7f0b8a8d39f3db9a4bde31c6ca"
   },
   {
    "slot": "torso",
    "name": "skirt_grey",
    "zip": "parts/torso/skirt_grey.zip",
    "bytes": 40185,
-   "md5": "a3b55d5a260320fb1f3e4a9b67c3b513"
+   "md5": "fcc45bf4ec4557ac5d0586b9ccdfe541"
   },
   {
    "slot": "torso",
    "name": "skirt_navy",
    "zip": "parts/torso/skirt_navy.zip",
    "bytes": 40329,
-   "md5": "70786b7b50a0457703217fda3704e433"
+   "md5": "d891e1c7321f90180feab891efa75ff3"
   },
   {
    "slot": "torso",
    "name": "tabard_grey",
    "zip": "parts/torso/tabard_grey.zip",
    "bytes": 44654,
-   "md5": "a4b8f1e3f9980368ec1f3956c08cc5f9"
+   "md5": "6c3d317575a5fc5509a43111fecad78a"
   },
   {
    "slot": "torso",
    "name": "trousers_brown",
    "zip": "parts/torso/trousers_brown.zip",
    "bytes": 38391,
-   "md5": "200d41b87a15f563de4c269d4626ada4"
+   "md5": "bac226b3d7c2dedef45fb5bb027ca605"
   },
   {
    "slot": "torso",
    "name": "trousers_grey",
    "zip": "parts/torso/trousers_grey.zip",
    "bytes": 38256,
-   "md5": "a66a6801a895f7c62fb3899ccce5bad2"
+   "md5": "a5cd8bb6bbaaa6faea7732d27306d041"
   },
   {
    "slot": "torso",
    "name": "trousers_navy",
    "zip": "parts/torso/trousers_navy.zip",
    "bytes": 37806,
-   "md5": "a4447ae8600e1ea165f81ee4ac264f7e"
+   "md5": "b983c99a4d69e789f95d5f56b818b37d"
   },
   {
    "slot": "torso",
    "name": "tunic_green",
    "zip": "parts/torso/tunic_green.zip",
    "bytes": 52236,
-   "md5": "d2580311f53fffa8acff798e5252aa3c"
+   "md5": "beb408d322a4f99b43bbdaaf66361175"
   },
   {
    "slot": "torso",
    "name": "tunic_oat",
    "zip": "parts/torso/tunic_oat.zip",
    "bytes": 51534,
-   "md5": "9664a46552404accd9592e072f943f63"
+   "md5": "c25dded59c86bddf9b66f0c7bd400cfe"
   },
   {
    "slot": "torso",
    "name": "tunic_red",
    "zip": "parts/torso/tunic_red.zip",
    "bytes": 52019,
-   "md5": "c1b8ae580e98fab0f2365cc63dc6e591"
+   "md5": "acf6fd46ec1df88cf4f92ea91c0c207a"
   },
   {
    "slot": "torso",
    "name": "vest_green",
    "zip": "parts/torso/vest_green.zip",
    "bytes": 51444,
-   "md5": "b61503486f3cb6cf45909440f6800e63"
+   "md5": "72609128c76b25033309aa636d980f99"
   },
   {
    "slot": "torso",
    "name": "vest_oat",
    "zip": "parts/torso/vest_oat.zip",
    "bytes": 50476,
-   "md5": "09d077ce27e86379a9bb89799ed70b8a"
+   "md5": "4cefea3c292779e349396ca0c9f0467d"
   },
   {
    "slot": "torso",
    "name": "vest_red",
    "zip": "parts/torso/vest_red.zip",
    "bytes": 51335,
-   "md5": "37692601a23afaea4d0e8a02f061f9e0"
+   "md5": "e1a2856e9f69aa2119730d62de3631b3"
   }
  ]
 }
